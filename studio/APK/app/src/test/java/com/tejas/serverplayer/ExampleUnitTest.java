@@ -1,4 +1,4 @@
-package com.example.template;
+package com.tejas.serverplayer;
 
 import org.junit.Test;
 
