@@ -1,1 +1,3 @@
 # potential-lamp
+This is a repo for a personal project made with java and android studio....
+For any queries please contact me on : tjbishnoi29@gmail.com
