@@ -28,8 +28,8 @@ public class servermain {
                 } else if (config.equals("username")) {
                     PrintWriter out5 = new PrintWriter(soc.getOutputStream(), true);
                     out5.print(username);
-                }
-            } catch (Exception e) {
+
+                 }} catch (Exception e) {
                 e.printStackTrace();
             }
         }
